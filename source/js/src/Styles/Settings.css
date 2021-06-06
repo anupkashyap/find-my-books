@@ -1,0 +1,9 @@
+.settings__viewMode{
+    padding: 5px;
+}
+.settings__toggleGroup{
+    width: 100%;
+}
+.settings__toggleBtn{
+    width: 50vw;
+}

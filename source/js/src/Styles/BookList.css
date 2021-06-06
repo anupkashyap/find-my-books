@@ -1,0 +1,9 @@
+.bookList__container{
+    border: 5px solid skyblue;
+    border-radius: 5px;
+    padding: 10px;
+}
+.bookList__searchInput{
+    width: 95%;
+    margin: 5px;
+}
